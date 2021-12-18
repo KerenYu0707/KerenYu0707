@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Bug report 
 
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+1. tab on the project detail page does not link to the home page's section. ./#id returns a 404
+2. performance might suffer if internet speed is slow
